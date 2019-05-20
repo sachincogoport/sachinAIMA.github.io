@@ -32,7 +32,7 @@ permalink: /reinforcement-learning-exercises/
 <br>
 <div class="card">
 <div class="card-header p-2">
-<a href='ex_3/' class="p-2">Exercise 3 </a>
+<a href='ex_3/' class="p-2">Exercise 3 (prioritized-sweeping-exercise) </a>
 <button type="button" class="btn btn-dark float-right" onclick="bookmark('ex21.3');" href="#"><i id="ex21.3" class="fas fa-bookmark" style="color:white"></i></button>
 <button type="button" class="btn btn-dark float-right" style="margin-left:10px; margin-right:10px;" onclick="upvote('ex21.3);" href="#"><i id="ex21.3" class="fas fa-thumbs-up" style="color:white"></i></button>
 </div>
@@ -76,7 +76,7 @@ permalink: /reinforcement-learning-exercises/
 <br>
 <div class="card">
 <div class="card-header p-2">
-<a href='ex_7/' class="p-2">Exercise 7 </a>
+<a href='ex_7/' class="p-2">Exercise 7 (approx-LMS-exercise) </a>
 <button type="button" class="btn btn-dark float-right" onclick="bookmark('ex21.7');" href="#"><i id="ex21.7" class="fas fa-bookmark" style="color:white"></i></button>
 <button type="button" class="btn btn-dark float-right" style="margin-left:10px; margin-right:10px;" onclick="upvote('ex21.7);" href="#"><i id="ex21.7" class="fas fa-thumbs-up" style="color:white"></i></button>
 </div>
@@ -109,7 +109,7 @@ permalink: /reinforcement-learning-exercises/
 <br>
 <div class="card">
 <div class="card-header p-2">
-<a href='ex_10/' class="p-2">Exercise 10 </a>
+<a href='ex_10/' class="p-2">Exercise 10 (10x10-exercise) </a>
 <button type="button" class="btn btn-dark float-right" onclick="bookmark('ex21.10');" href="#"><i id="ex21.10" class="fas fa-bookmark" style="color:white"></i></button>
 <button type="button" class="btn btn-dark float-right" style="margin-left:10px; margin-right:10px;" onclick="upvote('ex21.10);" href="#"><i id="ex21.10" class="fas fa-thumbs-up" style="color:white"></i></button>
 </div>

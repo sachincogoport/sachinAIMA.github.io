@@ -10,7 +10,7 @@ permalink: /bayesian-learning-exercises/
 
 <div class="card">
 <div class="card-header p-2">
-<a href='ex_1/' class="p-2">Exercise 1 </a>
+<a href='ex_1/' class="p-2">Exercise 1 (bayes-candy-exercise) </a>
 <button type="button" class="btn btn-dark float-right" onclick="bookmark('ex20.1');" href="#"><i id="ex20.1" class="fas fa-bookmark" style="color:white"></i></button>
 <button type="button" class="btn btn-dark float-right" style="margin-left:10px; margin-right:10px;" onclick="upvote('ex20.1);" href="#"><i id="ex20.1" class="fas fa-thumbs-up" style="color:white"></i></button>
 </div>

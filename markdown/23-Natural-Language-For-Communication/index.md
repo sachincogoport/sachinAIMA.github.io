@@ -10,7 +10,7 @@ permalink: /nlp-english-exercises/
 
 <div class="card">
 <div class="card-header p-2">
-<a href='ex_1/' class="p-2">Exercise 1 </a>
+<a href='ex_1/' class="p-2">Exercise 1 (washing-clothes-exercise) </a>
 <button type="button" class="btn btn-dark float-right" onclick="bookmark('ex23.1');" href="#"><i id="ex23.1" class="fas fa-bookmark" style="color:white"></i></button>
 <button type="button" class="btn btn-dark float-right" style="margin-left:10px; margin-right:10px;" onclick="upvote('ex23.1);" href="#"><i id="ex23.1" class="fas fa-thumbs-up" style="color:white"></i></button>
 </div>
@@ -109,7 +109,7 @@ permalink: /nlp-english-exercises/
 <br>
 <div class="card">
 <div class="card-header p-2">
-<a href='ex_10/' class="p-2">Exercise 10 </a>
+<a href='ex_10/' class="p-2">Exercise 10 (chomsky-form-exercise) </a>
 <button type="button" class="btn btn-dark float-right" onclick="bookmark('ex23.10');" href="#"><i id="ex23.10" class="fas fa-bookmark" style="color:white"></i></button>
 <button type="button" class="btn btn-dark float-right" style="margin-left:10px; margin-right:10px;" onclick="upvote('ex23.10);" href="#"><i id="ex23.10" class="fas fa-thumbs-up" style="color:white"></i></button>
 </div>
@@ -131,7 +131,7 @@ permalink: /nlp-english-exercises/
 <br>
 <div class="card">
 <div class="card-header p-2">
-<a href='ex_12/' class="p-2">Exercise 12 </a>
+<a href='ex_12/' class="p-2">Exercise 12(exercise-subj-verb-agree) </a>
 <button type="button" class="btn btn-dark float-right" onclick="bookmark('ex23.12');" href="#"><i id="ex23.12" class="fas fa-bookmark" style="color:white"></i></button>
 <button type="button" class="btn btn-dark float-right" style="margin-left:10px; margin-right:10px;" onclick="upvote('ex23.12);" href="#"><i id="ex23.12" class="fas fa-thumbs-up" style="color:white"></i></button>
 </div>
@@ -186,7 +186,7 @@ permalink: /nlp-english-exercises/
 <br>
 <div class="card">
 <div class="card-header p-2">
-<a href='ex_17/' class="p-2">Exercise 17 </a>
+<a href='ex_17/' class="p-2">Exercise 17 (washing-clothes2-exercise) </a>
 <button type="button" class="btn btn-dark float-right" onclick="bookmark('ex23.17');" href="#"><i id="ex23.17" class="fas fa-bookmark" style="color:white"></i></button>
 <button type="button" class="btn btn-dark float-right" style="margin-left:10px; margin-right:10px;" onclick="upvote('ex23.17);" href="#"><i id="ex23.17" class="fas fa-thumbs-up" style="color:white"></i></button>
 </div>
