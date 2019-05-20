@@ -21,7 +21,7 @@ permalink: /probability-exercises/
 <br>
 <div class="card">
 <div class="card-header p-2">
-<a href='ex_2/' class="p-2">Exercise 2 </a>
+<a href='ex_2/' class="p-2">Exercise 2 (sum-to-1-exercise) </a>
 <button type="button" class="btn btn-dark float-right" onclick="bookmark('ex13.2');" href="#"><i id="ex13.2" class="fas fa-bookmark" style="color:white"></i></button>
 <button type="button" class="btn btn-dark float-right" style="margin-left:10px; margin-right:10px;" onclick="upvote('ex13.2);" href="#"><i id="ex13.2" class="fas fa-thumbs-up" style="color:white"></i></button>
 </div>
@@ -54,7 +54,7 @@ permalink: /probability-exercises/
 <br>
 <div class="card">
 <div class="card-header p-2">
-<a href='ex_5/' class="p-2">Exercise 5 </a>
+<a href='ex_5/' class="p-2">Exercise 5 (exclusive-exhaustive-exercise) </a>
 <button type="button" class="btn btn-dark float-right" onclick="bookmark('ex13.5');" href="#"><i id="ex13.5" class="fas fa-bookmark" style="color:white"></i></button>
 <button type="button" class="btn btn-dark float-right" style="margin-left:10px; margin-right:10px;" onclick="upvote('ex13.5);" href="#"><i id="ex13.5" class="fas fa-thumbs-up" style="color:white"></i></button>
 </div>
@@ -65,7 +65,7 @@ permalink: /probability-exercises/
 <br>
 <div class="card">
 <div class="card-header p-2">
-<a href='ex_6/' class="p-2">Exercise 6 </a>
+<a href='ex_6/' class="p-2">Exercise 6 (inclusion-exclusion-exercise) </a>
 <button type="button" class="btn btn-dark float-right" onclick="bookmark('ex13.6');" href="#"><i id="ex13.6" class="fas fa-bookmark" style="color:white"></i></button>
 <button type="button" class="btn btn-dark float-right" style="margin-left:10px; margin-right:10px;" onclick="upvote('ex13.6);" href="#"><i id="ex13.6" class="fas fa-thumbs-up" style="color:white"></i></button>
 </div>
@@ -109,7 +109,7 @@ permalink: /probability-exercises/
 <br>
 <div class="card">
 <div class="card-header p-2">
-<a href='ex_10/' class="p-2">Exercise 10 </a>
+<a href='ex_10/' class="p-2">Exercise 10 (unfinished-game-exercise) </a>
 <button type="button" class="btn btn-dark float-right" onclick="bookmark('ex13.10');" href="#"><i id="ex13.10" class="fas fa-bookmark" style="color:white"></i></button>
 <button type="button" class="btn btn-dark float-right" style="margin-left:10px; margin-right:10px;" onclick="upvote('ex13.10);" href="#"><i id="ex13.10" class="fas fa-thumbs-up" style="color:white"></i></button>
 </div>
@@ -164,7 +164,7 @@ permalink: /probability-exercises/
 <br>
 <div class="card">
 <div class="card-header p-2">
-<a href='ex_15/' class="p-2">Exercise 15 </a>
+<a href='ex_15/' class="p-2">Exercise 15 (independence-exercise) </a>
 <button type="button" class="btn btn-dark float-right" onclick="bookmark('ex13.15');" href="#"><i id="ex13.15" class="fas fa-bookmark" style="color:white"></i></button>
 <button type="button" class="btn btn-dark float-right" style="margin-left:10px; margin-right:10px;" onclick="upvote('ex13.15);" href="#"><i id="ex13.15" class="fas fa-thumbs-up" style="color:white"></i></button>
 </div>
@@ -219,7 +219,7 @@ permalink: /probability-exercises/
 <br>
 <div class="card">
 <div class="card-header p-2">
-<a href='ex_20/' class="p-2">Exercise 20 </a>
+<a href='ex_20/' class="p-2">Exercise 20 (conditional-bayes-exercise) </a>
 <button type="button" class="btn btn-dark float-right" onclick="bookmark('ex13.20');" href="#"><i id="ex13.20" class="fas fa-bookmark" style="color:white"></i></button>
 <button type="button" class="btn btn-dark float-right" style="margin-left:10px; margin-right:10px;" onclick="upvote('ex13.20);" href="#"><i id="ex13.20" class="fas fa-thumbs-up" style="color:white"></i></button>
 </div>
@@ -230,7 +230,7 @@ permalink: /probability-exercises/
 <br>
 <div class="card">
 <div class="card-header p-2">
-<a href='ex_21/' class="p-2">Exercise 21 </a>
+<a href='ex_21/' class="p-2">Exercise 21 (pv-xyz-exercise) </a>
 <button type="button" class="btn btn-dark float-right" onclick="bookmark('ex13.21');" href="#"><i id="ex13.21" class="fas fa-bookmark" style="color:white"></i></button>
 <button type="button" class="btn btn-dark float-right" style="margin-left:10px; margin-right:10px;" onclick="upvote('ex13.21);" href="#"><i id="ex13.21" class="fas fa-thumbs-up" style="color:white"></i></button>
 </div>
@@ -252,7 +252,7 @@ permalink: /probability-exercises/
 <br>
 <div class="card">
 <div class="card-header p-2">
-<a href='ex_23/' class="p-2">Exercise 23 </a>
+<a href='ex_23/' class="p-2">Exercise 23 (normalization-exercise) </a>
 <button type="button" class="btn btn-dark float-right" onclick="bookmark('ex13.23');" href="#"><i id="ex13.23" class="fas fa-bookmark" style="color:white"></i></button>
 <button type="button" class="btn btn-dark float-right" style="margin-left:10px; margin-right:10px;" onclick="upvote('ex13.23);" href="#"><i id="ex13.23" class="fas fa-thumbs-up" style="color:white"></i></button>
 </div>
@@ -307,7 +307,7 @@ permalink: /probability-exercises/
 <br>
 <div class="card">
 <div class="card-header p-2">
-<a href='ex_28/' class="p-2">Exercise 28 </a>
+<a href='ex_28/' class="p-2">Exercise 28 (naive-bayes-retrieval-exercise) </a>
 <button type="button" class="btn btn-dark float-right" onclick="bookmark('ex13.28');" href="#"><i id="ex13.28" class="fas fa-bookmark" style="color:white"></i></button>
 <button type="button" class="btn btn-dark float-right" style="margin-left:10px; margin-right:10px;" onclick="upvote('ex13.28);" href="#"><i id="ex13.28" class="fas fa-thumbs-up" style="color:white"></i></button>
 </div>

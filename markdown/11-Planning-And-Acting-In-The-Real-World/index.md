@@ -32,7 +32,7 @@ permalink: /advanced-planning-exercises/
 <br>
 <div class="card">
 <div class="card-header p-2">
-<a href='ex_3/' class="p-2">Exercise 3 </a>
+<a href='ex_3/' class="p-2">Exercise 3 (HLA-unique-exercise) </a>
 <button type="button" class="btn btn-dark float-right" onclick="bookmark('ex11.3');" href="#"><i id="ex11.3" class="fas fa-bookmark" style="color:white"></i></button>
 <button type="button" class="btn btn-dark float-right" style="margin-left:10px; margin-right:10px;" onclick="upvote('ex11.3);" href="#"><i id="ex11.3" class="fas fa-thumbs-up" style="color:white"></i></button>
 </div>
@@ -54,7 +54,7 @@ permalink: /advanced-planning-exercises/
 <br>
 <div class="card">
 <div class="card-header p-2">
-<a href='ex_5/' class="p-2">Exercise 5 </a>
+<a href='ex_5/' class="p-2">Exercise 5 (HLA-progression-exercise) </a>
 <button type="button" class="btn btn-dark float-right" onclick="bookmark('ex11.5');" href="#"><i id="ex11.5" class="fas fa-bookmark" style="color:white"></i></button>
 <button type="button" class="btn btn-dark float-right" style="margin-left:10px; margin-right:10px;" onclick="upvote('ex11.5);" href="#"><i id="ex11.5" class="fas fa-thumbs-up" style="color:white"></i></button>
 </div>
@@ -98,7 +98,7 @@ permalink: /advanced-planning-exercises/
 <br>
 <div class="card">
 <div class="card-header p-2">
-<a href='ex_9/' class="p-2">Exercise 9 </a>
+<a href='ex_9/' class="p-2">Exercise 9 (conformant-flip-literal-exercise) </a>
 <button type="button" class="btn btn-dark float-right" onclick="bookmark('ex11.9');" href="#"><i id="ex11.9" class="fas fa-bookmark" style="color:white"></i></button>
 <button type="button" class="btn btn-dark float-right" style="margin-left:10px; margin-right:10px;" onclick="upvote('ex11.9);" href="#"><i id="ex11.9" class="fas fa-thumbs-up" style="color:white"></i></button>
 </div>
@@ -120,7 +120,7 @@ permalink: /advanced-planning-exercises/
 <br>
 <div class="card">
 <div class="card-header p-2">
-<a href='ex_11/' class="p-2">Exercise 11 </a>
+<a href='ex_11/' class="p-2">Exercise 11 (alt-vacuum-exercise) </a>
 <button type="button" class="btn btn-dark float-right" onclick="bookmark('ex11.11');" href="#"><i id="ex11.11" class="fas fa-bookmark" style="color:white"></i></button>
 <button type="button" class="btn btn-dark float-right" style="margin-left:10px; margin-right:10px;" onclick="upvote('ex11.11);" href="#"><i id="ex11.11" class="fas fa-thumbs-up" style="color:white"></i></button>
 </div>

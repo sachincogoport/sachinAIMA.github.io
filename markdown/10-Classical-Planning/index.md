@@ -75,7 +75,7 @@ permalink: /planning-exercises/
 <br>
 <div class="card">
 <div class="card-header p-2">
-<a href='ex_7/' class="p-2">Exercise 7 </a>
+<a href='ex_7/' class="p-2">Exercise 7 (negative-effects-exercise) </a>
 <button type="button" class="btn btn-dark float-right" onclick="bookmark('ex10.7');" href="#"><i id="ex10.7" class="fas fa-bookmark" style="color:white"></i></button>
 <button type="button" class="btn btn-dark float-right" style="margin-left:10px; margin-right:10px;" onclick="upvote('ex10.7);" href="#"><i id="ex10.7" class="fas fa-thumbs-up" style="color:white"></i></button>
 </div>
@@ -86,7 +86,7 @@ permalink: /planning-exercises/
 <br>
 <div class="card">
 <div class="card-header p-2">
-<a href='ex_8/' class="p-2">Exercise 8 </a>
+<a href='ex_8/' class="p-2">Exercise 8 (sussman-anomaly-exercise) </a>
 <button type="button" class="btn btn-dark float-right" onclick="bookmark('ex10.8');" href="#"><i id="ex10.8" class="fas fa-bookmark" style="color:white"></i></button>
 <button type="button" class="btn btn-dark float-right" style="margin-left:10px; margin-right:10px;" onclick="upvote('ex10.8);" href="#"><i id="ex10.8" class="fas fa-thumbs-up" style="color:white"></i></button>
 </div>
@@ -119,7 +119,7 @@ permalink: /planning-exercises/
 <br>
 <div class="card">
 <div class="card-header p-2">
-<a href='ex_11/' class="p-2">Exercise 11 </a>
+<a href='ex_11/' class="p-2">Exercise 11 (graphplan-proof-exercise) </a>
 <button type="button" class="btn btn-dark float-right" onclick="bookmark('ex10.11');" href="#"><i id="ex10.11" class="fas fa-bookmark" style="color:white"></i></button>
 <button type="button" class="btn btn-dark float-right" style="margin-left:10px; margin-right:10px;" onclick="upvote('ex10.11);" href="#"><i id="ex10.11" class="fas fa-thumbs-up" style="color:white"></i></button>
 </div>
@@ -174,7 +174,7 @@ permalink: /planning-exercises/
 <br>
 <div class="card">
 <div class="card-header p-2">
-<a href='ex_16/' class="p-2">Exercise 16 </a>
+<a href='ex_16/' class="p-2">Exercise 16 (satplan-preconditions-exercise) </a>
 <button type="button" class="btn btn-dark float-right" onclick="bookmark('ex10.16');" href="#"><i id="ex10.16" class="fas fa-bookmark" style="color:white"></i></button>
 <button type="button" class="btn btn-dark float-right" style="margin-left:10px; margin-right:10px;" onclick="upvote('ex10.16);" href="#"><i id="ex10.16" class="fas fa-thumbs-up" style="color:white"></i></button>
 </div>
@@ -185,7 +185,7 @@ permalink: /planning-exercises/
 <br>
 <div class="card">
 <div class="card-header p-2">
-<a href='ex_17/' class="p-2">Exercise 17 </a>
+<a href='ex_17/' class="p-2">Exercise 17 (strips-translation-exercise) </a>
 <button type="button" class="btn btn-dark float-right" onclick="bookmark('ex10.17');" href="#"><i id="ex10.17" class="fas fa-bookmark" style="color:white"></i></button>
 <button type="button" class="btn btn-dark float-right" style="margin-left:10px; margin-right:10px;" onclick="upvote('ex10.17);" href="#"><i id="ex10.17" class="fas fa-thumbs-up" style="color:white"></i></button>
 </div>
@@ -196,7 +196,7 @@ permalink: /planning-exercises/
 <br>
 <div class="card">
 <div class="card-header p-2">
-<a href='ex_18/' class="p-2">Exercise 18 </a>
+<a href='ex_18/' class="p-2">Exercise 18 (disjunctive-satplan-exercise) </a>
 <button type="button" class="btn btn-dark float-right" onclick="bookmark('ex10.18');" href="#"><i id="ex10.18" class="fas fa-bookmark" style="color:white"></i></button>
 <button type="button" class="btn btn-dark float-right" style="margin-left:10px; margin-right:10px;" onclick="upvote('ex10.18);" href="#"><i id="ex10.18" class="fas fa-thumbs-up" style="color:white"></i></button>
 </div>

@@ -1,4 +1,3 @@
-[Exercise 13.30](ex_30/)
 
 Redo the probability calculation for pits in \[1,3\] and \[2,2\],
 assuming that each square contains a pit with probability 0.01,

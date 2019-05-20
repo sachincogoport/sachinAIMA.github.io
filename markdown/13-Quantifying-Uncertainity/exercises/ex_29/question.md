@@ -1,4 +1,4 @@
-[Exercise 13.29](ex_29/)
+
 
 In our analysis of the wumpus world, we used the fact that
 each square contains a pit with probability 0.2, independently of the

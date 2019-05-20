@@ -1,4 +1,4 @@
-[Exercise 11.8](ex_8/)
+
 
 Consider the following argument: In a framework that allows uncertain
 initial states, **nondeterministic effects**
