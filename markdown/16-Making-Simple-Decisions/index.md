@@ -10,7 +10,7 @@ permalink: /decision-theory-exercises/
 
 <div class="card">
 <div class="card-header p-2">
-<a href='ex_1/' class="p-2">Exercise 1 </a>
+<a href='ex_1/' class="p-2">Exercise 1 (almanac-game) </a>
 <button type="button" class="btn btn-dark float-right" onclick="bookmark('ex16.1');" href="#"><i id="ex16.1" class="fas fa-bookmark" style="color:white"></i></button>
 <button type="button" class="btn btn-dark float-right" style="margin-left:10px; margin-right:10px;" onclick="upvote('ex16.1);" href="#"><i id="ex16.1" class="fas fa-thumbs-up" style="color:white"></i></button>
 </div>
@@ -43,7 +43,7 @@ permalink: /decision-theory-exercises/
 <br>
 <div class="card">
 <div class="card-header p-2">
-<a href='ex_4/' class="p-2">Exercise 4 </a>
+<a href='ex_4/' class="p-2">Exercise 4 (St-Petersburg-exercise) </a>
 <button type="button" class="btn btn-dark float-right" onclick="bookmark('ex16.4');" href="#"><i id="ex16.4" class="fas fa-bookmark" style="color:white"></i></button>
 <button type="button" class="btn btn-dark float-right" style="margin-left:10px; margin-right:10px;" onclick="upvote('ex16.4);" href="#"><i id="ex16.4" class="fas fa-thumbs-up" style="color:white"></i></button>
 </div>
@@ -65,7 +65,7 @@ permalink: /decision-theory-exercises/
 <br>
 <div class="card">
 <div class="card-header p-2">
-<a href='ex_6/' class="p-2">Exercise 6 </a>
+<a href='ex_6/' class="p-2">Exercise 6 (surprise-candy-exercise) </a>
 <button type="button" class="btn btn-dark float-right" onclick="bookmark('ex16.6');" href="#"><i id="ex16.6" class="fas fa-bookmark" style="color:white"></i></button>
 <button type="button" class="btn btn-dark float-right" style="margin-left:10px; margin-right:10px;" onclick="upvote('ex16.6);" href="#"><i id="ex16.6" class="fas fa-thumbs-up" style="color:white"></i></button>
 </div>
@@ -76,7 +76,7 @@ permalink: /decision-theory-exercises/
 <br>
 <div class="card">
 <div class="card-header p-2">
-<a href='ex_7/' class="p-2">Exercise 7 </a>
+<a href='ex_7/' class="p-2">Exercise 7 (surprise-candy-exercise) </a>
 <button type="button" class="btn btn-dark float-right" onclick="bookmark('ex16.7');" href="#"><i id="ex16.7" class="fas fa-bookmark" style="color:white"></i></button>
 <button type="button" class="btn btn-dark float-right" style="margin-left:10px; margin-right:10px;" onclick="upvote('ex16.7);" href="#"><i id="ex16.7" class="fas fa-thumbs-up" style="color:white"></i></button>
 </div>
@@ -120,7 +120,7 @@ permalink: /decision-theory-exercises/
 <br>
 <div class="card">
 <div class="card-header p-2">
-<a href='ex_11/' class="p-2">Exercise 11 </a>
+<a href='ex_11/' class="p-2">Exercise 11 (assessment-exercise) </a>
 <button type="button" class="btn btn-dark float-right" onclick="bookmark('ex16.11');" href="#"><i id="ex16.11" class="fas fa-bookmark" style="color:white"></i></button>
 <button type="button" class="btn btn-dark float-right" style="margin-left:10px; margin-right:10px;" onclick="upvote('ex16.11);" href="#"><i id="ex16.11" class="fas fa-thumbs-up" style="color:white"></i></button>
 </div>
@@ -142,7 +142,7 @@ permalink: /decision-theory-exercises/
 <br>
 <div class="card">
 <div class="card-header p-2">
-<a href='ex_13/' class="p-2">Exercise 13 </a>
+<a href='ex_13/' class="p-2">Exercise 13 (kmax-exercise) </a>
 <button type="button" class="btn btn-dark float-right" onclick="bookmark('ex16.13');" href="#"><i id="ex16.13" class="fas fa-bookmark" style="color:white"></i></button>
 <button type="button" class="btn btn-dark float-right" style="margin-left:10px; margin-right:10px;" onclick="upvote('ex16.13);" href="#"><i id="ex16.13" class="fas fa-thumbs-up" style="color:white"></i></button>
 </div>
@@ -186,7 +186,7 @@ permalink: /decision-theory-exercises/
 <br>
 <div class="card">
 <div class="card-header p-2">
-<a href='ex_17/' class="p-2">Exercise 17 </a>
+<a href='ex_17/' class="p-2">Exercise 17 (airport-au-id-exercise) </a>
 <button type="button" class="btn btn-dark float-right" onclick="bookmark('ex16.17');" href="#"><i id="ex16.17" class="fas fa-bookmark" style="color:white"></i></button>
 <button type="button" class="btn btn-dark float-right" style="margin-left:10px; margin-right:10px;" onclick="upvote('ex16.17);" href="#"><i id="ex16.17" class="fas fa-thumbs-up" style="color:white"></i></button>
 </div>
@@ -230,7 +230,7 @@ permalink: /decision-theory-exercises/
 <br>
 <div class="card">
 <div class="card-header p-2">
-<a href='ex_21/' class="p-2">Exercise 21 </a>
+<a href='ex_21/' class="p-2">Exercise 21 (airport-id-exercise) </a>
 <button type="button" class="btn btn-dark float-right" onclick="bookmark('ex16.21');" href="#"><i id="ex16.21" class="fas fa-bookmark" style="color:white"></i></button>
 <button type="button" class="btn btn-dark float-right" style="margin-left:10px; margin-right:10px;" onclick="upvote('ex16.21);" href="#"><i id="ex16.21" class="fas fa-thumbs-up" style="color:white"></i></button>
 </div>
@@ -241,7 +241,7 @@ permalink: /decision-theory-exercises/
 <br>
 <div class="card">
 <div class="card-header p-2">
-<a href='ex_22/' class="p-2">Exercise 22 </a>
+<a href='ex_22/' class="p-2">Exercise 22 (car-vpi-exercise) </a>
 <button type="button" class="btn btn-dark float-right" onclick="bookmark('ex16.22');" href="#"><i id="ex16.22" class="fas fa-bookmark" style="color:white"></i></button>
 <button type="button" class="btn btn-dark float-right" style="margin-left:10px; margin-right:10px;" onclick="upvote('ex16.22);" href="#"><i id="ex16.22" class="fas fa-thumbs-up" style="color:white"></i></button>
 </div>
@@ -252,7 +252,7 @@ permalink: /decision-theory-exercises/
 <br>
 <div class="card">
 <div class="card-header p-2">
-<a href='ex_23/' class="p-2">Exercise 23 </a>
+<a href='ex_23/' class="p-2">Exercise 23 (nonnegative-VPI-exercise) </a>
 <button type="button" class="btn btn-dark float-right" onclick="bookmark('ex16.23');" href="#"><i id="ex16.23" class="fas fa-bookmark" style="color:white"></i></button>
 <button type="button" class="btn btn-dark float-right" style="margin-left:10px; margin-right:10px;" onclick="upvote('ex16.23);" href="#"><i id="ex16.23" class="fas fa-thumbs-up" style="color:white"></i></button>
 </div>

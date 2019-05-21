@@ -32,7 +32,7 @@ permalink: /bayesian-learning-exercises/
 <br>
 <div class="card">
 <div class="card-header p-2">
-<a href='ex_3/' class="p-2">Exercise 3 </a>
+<a href='ex_3/' class="p-2">Exercise 3 (candy-trade-exercise) </a>
 <button type="button" class="btn btn-dark float-right" onclick="bookmark('ex20.3');" href="#"><i id="ex20.3" class="fas fa-bookmark" style="color:white"></i></button>
 <button type="button" class="btn btn-dark float-right" style="margin-left:10px; margin-right:10px;" onclick="upvote('ex20.3);" href="#"><i id="ex20.3" class="fas fa-thumbs-up" style="color:white"></i></button>
 </div>
@@ -54,7 +54,7 @@ permalink: /bayesian-learning-exercises/
 <br>
 <div class="card">
 <div class="card-header p-2">
-<a href='ex_5/' class="p-2">Exercise 5 </a>
+<a href='ex_5/' class="p-2">Exercise 5 (BNB-exercise) </a>
 <button type="button" class="btn btn-dark float-right" onclick="bookmark('ex20.5');" href="#"><i id="ex20.5" class="fas fa-bookmark" style="color:white"></i></button>
 <button type="button" class="btn btn-dark float-right" style="margin-left:10px; margin-right:10px;" onclick="upvote('ex20.5);" href="#"><i id="ex20.5" class="fas fa-thumbs-up" style="color:white"></i></button>
 </div>
@@ -65,7 +65,7 @@ permalink: /bayesian-learning-exercises/
 <br>
 <div class="card">
 <div class="card-header p-2">
-<a href='ex_6/' class="p-2">Exercise 6 </a>
+<a href='ex_6/' class="p-2">Exercise 6 (linear-regression-exercise) </a>
 <button type="button" class="btn btn-dark float-right" onclick="bookmark('ex20.6');" href="#"><i id="ex20.6" class="fas fa-bookmark" style="color:white"></i></button>
 <button type="button" class="btn btn-dark float-right" style="margin-left:10px; margin-right:10px;" onclick="upvote('ex20.6);" href="#"><i id="ex20.6" class="fas fa-thumbs-up" style="color:white"></i></button>
 </div>
@@ -76,7 +76,7 @@ permalink: /bayesian-learning-exercises/
 <br>
 <div class="card">
 <div class="card-header p-2">
-<a href='ex_7/' class="p-2">Exercise 7 </a>
+<a href='ex_7/' class="p-2">Exercise 7 (noisy-OR-ML-exercise) </a>
 <button type="button" class="btn btn-dark float-right" onclick="bookmark('ex20.7');" href="#"><i id="ex20.7" class="fas fa-bookmark" style="color:white"></i></button>
 <button type="button" class="btn btn-dark float-right" style="margin-left:10px; margin-right:10px;" onclick="upvote('ex20.7);" href="#"><i id="ex20.7" class="fas fa-thumbs-up" style="color:white"></i></button>
 </div>
@@ -87,7 +87,7 @@ permalink: /bayesian-learning-exercises/
 <br>
 <div class="card">
 <div class="card-header p-2">
-<a href='ex_8/' class="p-2">Exercise 8 </a>
+<a href='ex_8/' class="p-2">Exercise 8 (beta-integration-exercise) </a>
 <button type="button" class="btn btn-dark float-right" onclick="bookmark('ex20.8');" href="#"><i id="ex20.8" class="fas fa-bookmark" style="color:white"></i></button>
 <button type="button" class="btn btn-dark float-right" style="margin-left:10px; margin-right:10px;" onclick="upvote('ex20.8);" href="#"><i id="ex20.8" class="fas fa-thumbs-up" style="color:white"></i></button>
 </div>
@@ -98,7 +98,7 @@ permalink: /bayesian-learning-exercises/
 <br>
 <div class="card">
 <div class="card-header p-2">
-<a href='ex_9/' class="p-2">Exercise 9 </a>
+<a href='ex_9/' class="p-2">Exercise 9 (ML-parents-exercise) </a>
 <button type="button" class="btn btn-dark float-right" onclick="bookmark('ex20.9');" href="#"><i id="ex20.9" class="fas fa-bookmark" style="color:white"></i></button>
 <button type="button" class="btn btn-dark float-right" style="margin-left:10px; margin-right:10px;" onclick="upvote('ex20.9);" href="#"><i id="ex20.9" class="fas fa-thumbs-up" style="color:white"></i></button>
 </div>

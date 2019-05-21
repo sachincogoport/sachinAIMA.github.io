@@ -10,7 +10,7 @@ permalink: /complex-decisions-exercises/
 
 <div class="card">
 <div class="card-header p-2">
-<a href='ex_1/' class="p-2">Exercise 1 </a>
+<a href='ex_1/' class="p-2">Exercise 1 (mdp-model-exercise) </a>
 <button type="button" class="btn btn-dark float-right" onclick="bookmark('ex17.1');" href="#"><i id="ex17.1" class="fas fa-bookmark" style="color:white"></i></button>
 <button type="button" class="btn btn-dark float-right" style="margin-left:10px; margin-right:10px;" onclick="upvote('ex17.1);" href="#"><i id="ex17.1" class="fas fa-thumbs-up" style="color:white"></i></button>
 </div>
@@ -19,9 +19,10 @@ permalink: /complex-decisions-exercises/
 </div>
 </div>
 <br>
+
 <div class="card">
 <div class="card-header p-2">
-<a href='ex_2/' class="p-2">Exercise 2 </a>
+<a href='ex_2/' class="p-2">Exercise 2 (mdp-model-exercise) </a>
 <button type="button" class="btn btn-dark float-right" onclick="bookmark('ex17.2');" href="#"><i id="ex17.2" class="fas fa-bookmark" style="color:white"></i></button>
 <button type="button" class="btn btn-dark float-right" style="margin-left:10px; margin-right:10px;" onclick="upvote('ex17.2);" href="#"><i id="ex17.2" class="fas fa-thumbs-up" style="color:white"></i></button>
 </div>
@@ -43,7 +44,7 @@ permalink: /complex-decisions-exercises/
 <br>
 <div class="card">
 <div class="card-header p-2">
-<a href='ex_4/' class="p-2">Exercise 4 </a>
+<a href='ex_4/' class="p-2">Exercise 4 (nonseparable-exercise)</a>
 <button type="button" class="btn btn-dark float-right" onclick="bookmark('ex17.4');" href="#"><i id="ex17.4" class="fas fa-bookmark" style="color:white"></i></button>
 <button type="button" class="btn btn-dark float-right" style="margin-left:10px; margin-right:10px;" onclick="upvote('ex17.4);" href="#"><i id="ex17.4" class="fas fa-thumbs-up" style="color:white"></i></button>
 </div>
@@ -65,7 +66,7 @@ permalink: /complex-decisions-exercises/
 <br>
 <div class="card">
 <div class="card-header p-2">
-<a href='ex_6/' class="p-2">Exercise 6 </a>
+<a href='ex_6/' class="p-2">Exercise 6 (reward-equivalence-exercise) </a>
 <button type="button" class="btn btn-dark float-right" onclick="bookmark('ex17.6');" href="#"><i id="ex17.6" class="fas fa-bookmark" style="color:white"></i></button>
 <button type="button" class="btn btn-dark float-right" style="margin-left:10px; margin-right:10px;" onclick="upvote('ex17.6);" href="#"><i id="ex17.6" class="fas fa-thumbs-up" style="color:white"></i></button>
 </div>
@@ -76,7 +77,7 @@ permalink: /complex-decisions-exercises/
 <br>
 <div class="card">
 <div class="card-header p-2">
-<a href='ex_7/' class="p-2">Exercise 7 </a>
+<a href='ex_7/' class="p-2">Exercise 7 (threshold-cost-exercise) </a>
 <button type="button" class="btn btn-dark float-right" onclick="bookmark('ex17.7');" href="#"><i id="ex17.7" class="fas fa-bookmark" style="color:white"></i></button>
 <button type="button" class="btn btn-dark float-right" style="margin-left:10px; margin-right:10px;" onclick="upvote('ex17.7);" href="#"><i id="ex17.7" class="fas fa-thumbs-up" style="color:white"></i></button>
 </div>
@@ -87,7 +88,7 @@ permalink: /complex-decisions-exercises/
 <br>
 <div class="card">
 <div class="card-header p-2">
-<a href='ex_8/' class="p-2">Exercise 8 </a>
+<a href='ex_8/' class="p-2">Exercise 8 (vi-contraction-exercise) </a>
 <button type="button" class="btn btn-dark float-right" onclick="bookmark('ex17.8');" href="#"><i id="ex17.8" class="fas fa-bookmark" style="color:white"></i></button>
 <button type="button" class="btn btn-dark float-right" style="margin-left:10px; margin-right:10px;" onclick="upvote('ex17.8);" href="#"><i id="ex17.8" class="fas fa-thumbs-up" style="color:white"></i></button>
 </div>
@@ -109,7 +110,7 @@ permalink: /complex-decisions-exercises/
 <br>
 <div class="card">
 <div class="card-header p-2">
-<a href='ex_10/' class="p-2">Exercise 10 </a>
+<a href='ex_10/' class="p-2">Exercise 10 (3x3-mdp-exercise) </a>
 <button type="button" class="btn btn-dark float-right" onclick="bookmark('ex17.10');" href="#"><i id="ex17.10" class="fas fa-bookmark" style="color:white"></i></button>
 <button type="button" class="btn btn-dark float-right" style="margin-left:10px; margin-right:10px;" onclick="upvote('ex17.10);" href="#"><i id="ex17.10" class="fas fa-thumbs-up" style="color:white"></i></button>
 </div>
@@ -120,7 +121,7 @@ permalink: /complex-decisions-exercises/
 <br>
 <div class="card">
 <div class="card-header p-2">
-<a href='ex_11/' class="p-2">Exercise 11 </a>
+<a href='ex_11/' class="p-2">Exercise 11 (101x3-mdp-exercise) </a>
 <button type="button" class="btn btn-dark float-right" onclick="bookmark('ex17.11');" href="#"><i id="ex17.11" class="fas fa-bookmark" style="color:white"></i></button>
 <button type="button" class="btn btn-dark float-right" style="margin-left:10px; margin-right:10px;" onclick="upvote('ex17.11);" href="#"><i id="ex17.11" class="fas fa-thumbs-up" style="color:white"></i></button>
 </div>
@@ -153,7 +154,7 @@ permalink: /complex-decisions-exercises/
 <br>
 <div class="card">
 <div class="card-header p-2">
-<a href='ex_14/' class="p-2">Exercise 14 </a>
+<a href='ex_14/' class="p-2">Exercise 14 (policy-loss-exercise) </a>
 <button type="button" class="btn btn-dark float-right" onclick="bookmark('ex17.14');" href="#"><i id="ex17.14" class="fas fa-bookmark" style="color:white"></i></button>
 <button type="button" class="btn btn-dark float-right" style="margin-left:10px; margin-right:10px;" onclick="upvote('ex17.14);" href="#"><i id="ex17.14" class="fas fa-thumbs-up" style="color:white"></i></button>
 </div>
@@ -164,7 +165,7 @@ permalink: /complex-decisions-exercises/
 <br>
 <div class="card">
 <div class="card-header p-2">
-<a href='ex_15/' class="p-2">Exercise 15 </a>
+<a href='ex_15/' class="p-2">Exercise 15 (4x3-pomdp-exercise) </a>
 <button type="button" class="btn btn-dark float-right" onclick="bookmark('ex17.15');" href="#"><i id="ex17.15" class="fas fa-bookmark" style="color:white"></i></button>
 <button type="button" class="btn btn-dark float-right" style="margin-left:10px; margin-right:10px;" onclick="upvote('ex17.15);" href="#"><i id="ex17.15" class="fas fa-thumbs-up" style="color:white"></i></button>
 </div>
@@ -186,7 +187,7 @@ permalink: /complex-decisions-exercises/
 <br>
 <div class="card">
 <div class="card-header p-2">
-<a href='ex_17/' class="p-2">Exercise 17 </a>
+<a href='ex_17/' class="p-2">Exercise 17 (2state-pomdp-exercise) </a>
 <button type="button" class="btn btn-dark float-right" onclick="bookmark('ex17.17');" href="#"><i id="ex17.17" class="fas fa-bookmark" style="color:white"></i></button>
 <button type="button" class="btn btn-dark float-right" style="margin-left:10px; margin-right:10px;" onclick="upvote('ex17.17);" href="#"><i id="ex17.17" class="fas fa-thumbs-up" style="color:white"></i></button>
 </div>
@@ -197,7 +198,7 @@ permalink: /complex-decisions-exercises/
 <br>
 <div class="card">
 <div class="card-header p-2">
-<a href='ex_18/' class="p-2">Exercise 18 </a>
+<a href='ex_18/' class="p-2">Exercise 18 (dominant-equilibrium-exercise) </a>
 <button type="button" class="btn btn-dark float-right" onclick="bookmark('ex17.18');" href="#"><i id="ex17.18" class="fas fa-bookmark" style="color:white"></i></button>
 <button type="button" class="btn btn-dark float-right" style="margin-left:10px; margin-right:10px;" onclick="upvote('ex17.18);" href="#"><i id="ex17.18" class="fas fa-thumbs-up" style="color:white"></i></button>
 </div>

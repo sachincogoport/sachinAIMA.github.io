@@ -32,7 +32,7 @@ permalink: /bayes-nets-exercises/
 <br>
 <div class="card">
 <div class="card-header p-2">
-<a href='ex_3/' class="p-2">Exercise 3 </a>
+<a href='ex_3/' class="p-2">Exercise 3(cpt-equivalence-exercise) </a>
 <button type="button" class="btn btn-dark float-right" onclick="bookmark('ex14.3');" href="#"><i id="ex14.3" class="fas fa-bookmark" style="color:white"></i></button>
 <button type="button" class="btn btn-dark float-right" style="margin-left:10px; margin-right:10px;" onclick="upvote('ex14.3);" href="#"><i id="ex14.3" class="fas fa-thumbs-up" style="color:white"></i></button>
 </div>
@@ -76,7 +76,7 @@ permalink: /bayes-nets-exercises/
 <br>
 <div class="card">
 <div class="card-header p-2">
-<a href='ex_7/' class="p-2">Exercise 7 </a>
+<a href='ex_7/' class="p-2">Exercise 7 (handedness-exercise) </a>
 <button type="button" class="btn btn-dark float-right" onclick="bookmark('ex14.7');" href="#"><i id="ex14.7" class="fas fa-bookmark" style="color:white"></i></button>
 <button type="button" class="btn btn-dark float-right" style="margin-left:10px; margin-right:10px;" onclick="upvote('ex14.7);" href="#"><i id="ex14.7" class="fas fa-thumbs-up" style="color:white"></i></button>
 </div>
@@ -87,7 +87,7 @@ permalink: /bayes-nets-exercises/
 <br>
 <div class="card">
 <div class="card-header p-2">
-<a href='ex_8/' class="p-2">Exercise 8 </a>
+<a href='ex_8/' class="p-2">Exercise 8 (markov-blanket-exercise) </a>
 <button type="button" class="btn btn-dark float-right" onclick="bookmark('ex14.8');" href="#"><i id="ex14.8" class="fas fa-bookmark" style="color:white"></i></button>
 <button type="button" class="btn btn-dark float-right" style="margin-left:10px; margin-right:10px;" onclick="upvote('ex14.8);" href="#"><i id="ex14.8" class="fas fa-thumbs-up" style="color:white"></i></button>
 </div>
@@ -120,7 +120,7 @@ permalink: /bayes-nets-exercises/
 <br>
 <div class="card">
 <div class="card-header p-2">
-<a href='ex_11/' class="p-2">Exercise 11 </a>
+<a href='ex_11/' class="p-2">Exercise 11 (LG-exercise) </a>
 <button type="button" class="btn btn-dark float-right" onclick="bookmark('ex14.11');" href="#"><i id="ex14.11" class="fas fa-bookmark" style="color:white"></i></button>
 <button type="button" class="btn btn-dark float-right" style="margin-left:10px; margin-right:10px;" onclick="upvote('ex14.11);" href="#"><i id="ex14.11" class="fas fa-thumbs-up" style="color:white"></i></button>
 </div>
@@ -131,7 +131,7 @@ permalink: /bayes-nets-exercises/
 <br>
 <div class="card">
 <div class="card-header p-2">
-<a href='ex_12/' class="p-2">Exercise 12 </a>
+<a href='ex_12/' class="p-2">Exercise 12 (multivalued-probit-exercise)</a>
 <button type="button" class="btn btn-dark float-right" onclick="bookmark('ex14.12');" href="#"><i id="ex14.12" class="fas fa-bookmark" style="color:white"></i></button>
 <button type="button" class="btn btn-dark float-right" style="margin-left:10px; margin-right:10px;" onclick="upvote('ex14.12);" href="#"><i id="ex14.12" class="fas fa-thumbs-up" style="color:white"></i></button>
 </div>
@@ -153,7 +153,7 @@ permalink: /bayes-nets-exercises/
 <br>
 <div class="card">
 <div class="card-header p-2">
-<a href='ex_14/' class="p-2">Exercise 14 </a>
+<a href='ex_14/' class="p-2">Exercise 14 (telescope-exercise) </a>
 <button type="button" class="btn btn-dark float-right" onclick="bookmark('ex14.14');" href="#"><i id="ex14.14" class="fas fa-bookmark" style="color:white"></i></button>
 <button type="button" class="btn btn-dark float-right" style="margin-left:10px; margin-right:10px;" onclick="upvote('ex14.14);" href="#"><i id="ex14.14" class="fas fa-thumbs-up" style="color:white"></i></button>
 </div>
@@ -197,7 +197,7 @@ permalink: /bayes-nets-exercises/
 <br>
 <div class="card">
 <div class="card-header p-2">
-<a href='ex_18/' class="p-2">Exercise 18 </a>
+<a href='ex_18/' class="p-2">Exercise 18 (VE-exercise) </a>
 <button type="button" class="btn btn-dark float-right" onclick="bookmark('ex14.18');" href="#"><i id="ex14.18" class="fas fa-bookmark" style="color:white"></i></button>
 <button type="button" class="btn btn-dark float-right" style="margin-left:10px; margin-right:10px;" onclick="upvote('ex14.18);" href="#"><i id="ex14.18" class="fas fa-thumbs-up" style="color:white"></i></button>
 </div>
@@ -208,7 +208,7 @@ permalink: /bayes-nets-exercises/
 <br>
 <div class="card">
 <div class="card-header p-2">
-<a href='ex_19/' class="p-2">Exercise 19 </a>
+<a href='ex_19/' class="p-2">Exercise 19 (bn-complexity-exercise) </a>
 <button type="button" class="btn btn-dark float-right" onclick="bookmark('ex14.19');" href="#"><i id="ex14.19" class="fas fa-bookmark" style="color:white"></i></button>
 <button type="button" class="btn btn-dark float-right" style="margin-left:10px; margin-right:10px;" onclick="upvote('ex14.19);" href="#"><i id="ex14.19" class="fas fa-thumbs-up" style="color:white"></i></button>
 </div>
@@ -219,7 +219,7 @@ permalink: /bayes-nets-exercises/
 <br>
 <div class="card">
 <div class="card-header p-2">
-<a href='ex_20/' class="p-2">Exercise 20 </a>
+<a href='ex_20/' class="p-2">Exercise 20 (primitive-sampling-exercise) </a>
 <button type="button" class="btn btn-dark float-right" onclick="bookmark('ex14.20');" href="#"><i id="ex14.20" class="fas fa-bookmark" style="color:white"></i></button>
 <button type="button" class="btn btn-dark float-right" style="margin-left:10px; margin-right:10px;" onclick="upvote('ex14.20);" href="#"><i id="ex14.20" class="fas fa-thumbs-up" style="color:white"></i></button>
 </div>
@@ -241,7 +241,7 @@ permalink: /bayes-nets-exercises/
 <br>
 <div class="card">
 <div class="card-header p-2">
-<a href='ex_22/' class="p-2">Exercise 22 </a>
+<a href='ex_22/' class="p-2">Exercise 22 (gibbs-proof-exercise) </a>
 <button type="button" class="btn btn-dark float-right" onclick="bookmark('ex14.22');" href="#"><i id="ex14.22" class="fas fa-bookmark" style="color:white"></i></button>
 <button type="button" class="btn btn-dark float-right" style="margin-left:10px; margin-right:10px;" onclick="upvote('ex14.22);" href="#"><i id="ex14.22" class="fas fa-thumbs-up" style="color:white"></i></button>
 </div>
@@ -252,7 +252,7 @@ permalink: /bayes-nets-exercises/
 <br>
 <div class="card">
 <div class="card-header p-2">
-<a href='ex_23/' class="p-2">Exercise 23 </a>
+<a href='ex_23/' class="p-2">Exercise 23 (MH-exercise) </a>
 <button type="button" class="btn btn-dark float-right" onclick="bookmark('ex14.23');" href="#"><i id="ex14.23" class="fas fa-bookmark" style="color:white"></i></button>
 <button type="button" class="btn btn-dark float-right" style="margin-left:10px; margin-right:10px;" onclick="upvote('ex14.23);" href="#"><i id="ex14.23" class="fas fa-thumbs-up" style="color:white"></i></button>
 </div>
@@ -263,7 +263,7 @@ permalink: /bayes-nets-exercises/
 <br>
 <div class="card">
 <div class="card-header p-2">
-<a href='ex_24/' class="p-2">Exercise 24 </a>
+<a href='ex_24/' class="p-2">Exercise 24 (soccer-rpm-exercise) </a>
 <button type="button" class="btn btn-dark float-right" onclick="bookmark('ex14.24');" href="#"><i id="ex14.24" class="fas fa-bookmark" style="color:white"></i></button>
 <button type="button" class="btn btn-dark float-right" style="margin-left:10px; margin-right:10px;" onclick="upvote('ex14.24);" href="#"><i id="ex14.24" class="fas fa-thumbs-up" style="color:white"></i></button>
 </div>

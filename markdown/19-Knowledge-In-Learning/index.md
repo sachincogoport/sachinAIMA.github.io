@@ -10,7 +10,7 @@ permalink: /ilp-exercises/
 
 <div class="card">
 <div class="card-header p-2">
-<a href='ex_1/' class="p-2">Exercise 1 </a>
+<a href='ex_1/' class="p-2">Exercise 1 (dbsig-exercise) </a>
 <button type="button" class="btn btn-dark float-right" onclick="bookmark('ex19.1');" href="#"><i id="ex19.1" class="fas fa-bookmark" style="color:white"></i></button>
 <button type="button" class="btn btn-dark float-right" style="margin-left:10px; margin-right:10px;" onclick="upvote('ex19.1);" href="#"><i id="ex19.1" class="fas fa-thumbs-up" style="color:white"></i></button>
 </div>
@@ -54,7 +54,7 @@ permalink: /ilp-exercises/
 <br>
 <div class="card">
 <div class="card-header p-2">
-<a href='ex_5/' class="p-2">Exercise 5 </a>
+<a href='ex_5/' class="p-2">Exercise 5 (ir-step-exercise) </a>
 <button type="button" class="btn btn-dark float-right" onclick="bookmark('ex19.5');" href="#"><i id="ex19.5" class="fas fa-bookmark" style="color:white"></i></button>
 <button type="button" class="btn btn-dark float-right" style="margin-left:10px; margin-right:10px;" onclick="upvote('ex19.5);" href="#"><i id="ex19.5" class="fas fa-thumbs-up" style="color:white"></i></button>
 </div>
@@ -65,7 +65,7 @@ permalink: /ilp-exercises/
 <br>
 <div class="card">
 <div class="card-header p-2">
-<a href='ex_6/' class="p-2">Exercise 6 </a>
+<a href='ex_6/' class="p-2">Exercise 6 (prolog-ir-exercise) </a>
 <button type="button" class="btn btn-dark float-right" onclick="bookmark('ex19.6');" href="#"><i id="ex19.6" class="fas fa-bookmark" style="color:white"></i></button>
 <button type="button" class="btn btn-dark float-right" style="margin-left:10px; margin-right:10px;" onclick="upvote('ex19.6);" href="#"><i id="ex19.6" class="fas fa-thumbs-up" style="color:white"></i></button>
 </div>
@@ -76,7 +76,7 @@ permalink: /ilp-exercises/
 <br>
 <div class="card">
 <div class="card-header p-2">
-<a href='ex_7/' class="p-2">Exercise 7 </a>
+<a href='ex_7/' class="p-2">Exercise 7 (foil-literals-exercise) </a>
 <button type="button" class="btn btn-dark float-right" onclick="bookmark('ex19.7');" href="#"><i id="ex19.7" class="fas fa-bookmark" style="color:white"></i></button>
 <button type="button" class="btn btn-dark float-right" style="margin-left:10px; margin-right:10px;" onclick="upvote('ex19.7);" href="#"><i id="ex19.7" class="fas fa-thumbs-up" style="color:white"></i></button>
 </div>

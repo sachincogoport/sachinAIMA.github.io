@@ -10,7 +10,7 @@ permalink: /dbn-exercises/
 
 <div class="card">
 <div class="card-header p-2">
-<a href='ex_1/' class="p-2">Exercise 1 </a>
+<a href='ex_1/' class="p-2">Exercise 1 (state-augmentation-exercise)</a>
 <button type="button" class="btn btn-dark float-right" onclick="bookmark('ex15.1');" href="#"><i id="ex15.1" class="fas fa-bookmark" style="color:white"></i></button>
 <button type="button" class="btn btn-dark float-right" style="margin-left:10px; margin-right:10px;" onclick="upvote('ex15.1);" href="#"><i id="ex15.1" class="fas fa-thumbs-up" style="color:white"></i></button>
 </div>
@@ -21,7 +21,7 @@ permalink: /dbn-exercises/
 <br>
 <div class="card">
 <div class="card-header p-2">
-<a href='ex_2/' class="p-2">Exercise 2 </a>
+<a href='ex_2/' class="p-2">Exercise 2 (markov-convergence-exercise) </a>
 <button type="button" class="btn btn-dark float-right" onclick="bookmark('ex15.2');" href="#"><i id="ex15.2" class="fas fa-bookmark" style="color:white"></i></button>
 <button type="button" class="btn btn-dark float-right" style="margin-left:10px; margin-right:10px;" onclick="upvote('ex15.2);" href="#"><i id="ex15.2" class="fas fa-thumbs-up" style="color:white"></i></button>
 </div>
@@ -32,7 +32,7 @@ permalink: /dbn-exercises/
 <br>
 <div class="card">
 <div class="card-header p-2">
-<a href='ex_3/' class="p-2">Exercise 3 </a>
+<a href='ex_3/' class="p-2">Exercise 3 (island-exercise) </a>
 <button type="button" class="btn btn-dark float-right" onclick="bookmark('ex15.3');" href="#"><i id="ex15.3" class="fas fa-bookmark" style="color:white"></i></button>
 <button type="button" class="btn btn-dark float-right" style="margin-left:10px; margin-right:10px;" onclick="upvote('ex15.3);" href="#"><i id="ex15.3" class="fas fa-thumbs-up" style="color:white"></i></button>
 </div>
@@ -43,7 +43,7 @@ permalink: /dbn-exercises/
 <br>
 <div class="card">
 <div class="card-header p-2">
-<a href='ex_4/' class="p-2">Exercise 4 </a>
+<a href='ex_4/' class="p-2">Exercise 4 (flawed-viterbi-exercise) </a>
 <button type="button" class="btn btn-dark float-right" onclick="bookmark('ex15.4');" href="#"><i id="ex15.4" class="fas fa-bookmark" style="color:white"></i></button>
 <button type="button" class="btn btn-dark float-right" style="margin-left:10px; margin-right:10px;" onclick="upvote('ex15.4);" href="#"><i id="ex15.4" class="fas fa-thumbs-up" style="color:white"></i></button>
 </div>
@@ -54,7 +54,7 @@ permalink: /dbn-exercises/
 <br>
 <div class="card">
 <div class="card-header p-2">
-<a href='ex_5/' class="p-2">Exercise 5 </a>
+<a href='ex_5/' class="p-2">Exercise 5 (hmm-likelihood-exercise) </a>
 <button type="button" class="btn btn-dark float-right" onclick="bookmark('ex15.5');" href="#"><i id="ex15.5" class="fas fa-bookmark" style="color:white"></i></button>
 <button type="button" class="btn btn-dark float-right" style="margin-left:10px; margin-right:10px;" onclick="upvote('ex15.5);" href="#"><i id="ex15.5" class="fas fa-thumbs-up" style="color:white"></i></button>
 </div>
@@ -76,7 +76,7 @@ permalink: /dbn-exercises/
 <br>
 <div class="card">
 <div class="card-header p-2">
-<a href='ex_7/' class="p-2">Exercise 7 </a>
+<a href='ex_7/' class="p-2">Exercise 7 (hmm-robust-exercise) </a>
 <button type="button" class="btn btn-dark float-right" onclick="bookmark('ex15.7');" href="#"><i id="ex15.7" class="fas fa-bookmark" style="color:white"></i></button>
 <button type="button" class="btn btn-dark float-right" style="margin-left:10px; margin-right:10px;" onclick="upvote('ex15.7);" href="#"><i id="ex15.7" class="fas fa-thumbs-up" style="color:white"></i></button>
 </div>
@@ -87,7 +87,7 @@ permalink: /dbn-exercises/
 <br>
 <div class="card">
 <div class="card-header p-2">
-<a href='ex_8/' class="p-2">Exercise 8 </a>
+<a href='ex_8/' class="p-2">Exercise 8 (roomba-viterbi-exercise)</a>
 <button type="button" class="btn btn-dark float-right" onclick="bookmark('ex15.8');" href="#"><i id="ex15.8" class="fas fa-bookmark" style="color:white"></i></button>
 <button type="button" class="btn btn-dark float-right" style="margin-left:10px; margin-right:10px;" onclick="upvote('ex15.8);" href="#"><i id="ex15.8" class="fas fa-thumbs-up" style="color:white"></i></button>
 </div>
@@ -131,7 +131,7 @@ permalink: /dbn-exercises/
 <br>
 <div class="card">
 <div class="card-header p-2">
-<a href='ex_12/' class="p-2">Exercise 12 </a>
+<a href='ex_12/' class="p-2">Exercise 12 (switching-kf-exercise) </a>
 <button type="button" class="btn btn-dark float-right" onclick="bookmark('ex15.12');" href="#"><i id="ex15.12" class="fas fa-bookmark" style="color:white"></i></button>
 <button type="button" class="btn btn-dark float-right" style="margin-left:10px; margin-right:10px;" onclick="upvote('ex15.12);" href="#"><i id="ex15.12" class="fas fa-thumbs-up" style="color:white"></i></button>
 </div>
@@ -142,7 +142,7 @@ permalink: /dbn-exercises/
 <br>
 <div class="card">
 <div class="card-header p-2">
-<a href='ex_13/' class="p-2">Exercise 13 </a>
+<a href='ex_13/' class="p-2">Exercise 13 (kalman-update-exercise) </a>
 <button type="button" class="btn btn-dark float-right" onclick="bookmark('ex15.13');" href="#"><i id="ex15.13" class="fas fa-bookmark" style="color:white"></i></button>
 <button type="button" class="btn btn-dark float-right" style="margin-left:10px; margin-right:10px;" onclick="upvote('ex15.13);" href="#"><i id="ex15.13" class="fas fa-thumbs-up" style="color:white"></i></button>
 </div>
@@ -153,7 +153,7 @@ permalink: /dbn-exercises/
 <br>
 <div class="card">
 <div class="card-header p-2">
-<a href='ex_14/' class="p-2">Exercise 14 </a>
+<a href='ex_14/' class="p-2">Exercise 14 (kalman-variance-exercise)</a>
 <button type="button" class="btn btn-dark float-right" onclick="bookmark('ex15.14');" href="#"><i id="ex15.14" class="fas fa-bookmark" style="color:white"></i></button>
 <button type="button" class="btn btn-dark float-right" style="margin-left:10px; margin-right:10px;" onclick="upvote('ex15.14);" href="#"><i id="ex15.14" class="fas fa-thumbs-up" style="color:white"></i></button>
 </div>
@@ -164,7 +164,7 @@ permalink: /dbn-exercises/
 <br>
 <div class="card">
 <div class="card-header p-2">
-<a href='ex_15/' class="p-2">Exercise 15 </a>
+<a href='ex_15/' class="p-2">Exercise 15 (sleep1-exercise) </a>
 <button type="button" class="btn btn-dark float-right" onclick="bookmark('ex15.15');" href="#"><i id="ex15.15" class="fas fa-bookmark" style="color:white"></i></button>
 <button type="button" class="btn btn-dark float-right" style="margin-left:10px; margin-right:10px;" onclick="upvote('ex15.15);" href="#"><i id="ex15.15" class="fas fa-thumbs-up" style="color:white"></i></button>
 </div>
@@ -208,7 +208,7 @@ permalink: /dbn-exercises/
 <br>
 <div class="card">
 <div class="card-header p-2">
-<a href='ex_19/' class="p-2">Exercise 19 </a>
+<a href='ex_19/' class="p-2">Exercise 19 (battery-sequence-exercise) </a>
 <button type="button" class="btn btn-dark float-right" onclick="bookmark('ex15.19');" href="#"><i id="ex15.19" class="fas fa-bookmark" style="color:white"></i></button>
 <button type="button" class="btn btn-dark float-right" style="margin-left:10px; margin-right:10px;" onclick="upvote('ex15.19);" href="#"><i id="ex15.19" class="fas fa-thumbs-up" style="color:white"></i></button>
 </div>
@@ -219,7 +219,7 @@ permalink: /dbn-exercises/
 <br>
 <div class="card">
 <div class="card-header p-2">
-<a href='ex_20/' class="p-2">Exercise 20 </a>
+<a href='ex_20/' class="p-2">Exercise 20 (dbn-elimination-exercise) </a>
 <button type="button" class="btn btn-dark float-right" onclick="bookmark('ex15.20');" href="#"><i id="ex15.20" class="fas fa-bookmark" style="color:white"></i></button>
 <button type="button" class="btn btn-dark float-right" style="margin-left:10px; margin-right:10px;" onclick="upvote('ex15.20);" href="#"><i id="ex15.20" class="fas fa-thumbs-up" style="color:white"></i></button>
 </div>
