@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: Main
+title: Making complex Decisions
 permalink: /complex-decisions-exercises/
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: Main
+title: Reinforcement learning
 permalink: /reinforcement-learning-exercises/
 ---
 

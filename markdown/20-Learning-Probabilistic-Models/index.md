@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: Main
+title: Learning Probabilistic Models
 permalink: /bayesian-learning-exercises/
 ---
 

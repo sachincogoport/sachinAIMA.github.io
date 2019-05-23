@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: Main
+title: Learning from Examples
 permalink: /concept-learning-exercises/
 ---
 

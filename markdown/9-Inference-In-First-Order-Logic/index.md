@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: Main
+title: Inference in First Order Logic
 permalink: /logical-inference-exercises/
 ---
 

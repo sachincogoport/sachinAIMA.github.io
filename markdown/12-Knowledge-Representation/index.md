@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: Main
+title: Knowledge Representation
 permalink: /kr-exercises/
 ---
 

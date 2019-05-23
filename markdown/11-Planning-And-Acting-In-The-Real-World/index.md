@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: Main
+title: Planning and Acting In real life
 permalink: /advanced-planning-exercises/
 ---
 

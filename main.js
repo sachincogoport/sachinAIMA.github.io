@@ -20,4 +20,4 @@ function bookmark(exercise){
         localStorage.removeItem(exercise);
         btn.style.color= 'white';
     }
-}
+};

@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: Main
+title: Natural Language For Communication
 permalink: /nlp-english-exercises/
 ---
 

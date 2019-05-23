@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: Main
+title: Classical Planning
 permalink: /planning-exercises/
 ---
 

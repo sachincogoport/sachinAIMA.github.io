@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: Main
+title: Quantifying Uncertainty
 permalink: /probability-exercises/
 ---
 

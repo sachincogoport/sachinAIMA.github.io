@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: Main
+title: Natural language Processing
 permalink: /nlp-communicating-exercises/
 ---
 

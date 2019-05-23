@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: Main
+title: Probabilistic Reasoning over time
 permalink: /dbn-exercises/
 ---
 

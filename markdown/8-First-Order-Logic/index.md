@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: Main
+title: First Order Logic
 permalink: /fol-exercises/
 ---
 

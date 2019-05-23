@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: Main
+title: Making simple decisions
 permalink: /decision-theory-exercises/
 ---
 
