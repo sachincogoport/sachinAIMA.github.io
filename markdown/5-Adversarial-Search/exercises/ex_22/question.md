@@ -3,8 +3,8 @@
 In the following, a “max” tree consists only of max nodes, whereas an
 “expectimax” tree consists of a max node at the root with alternating
 layers of chance and max nodes. At chance nodes, all outcome
-probabilities are nonzero. The goal is to *find the value of the
-root* with a bounded-depth search. For each of (a)–(f), either
+probabilities are nonzero. The goal is to <i>find the value of the
+root</i> with a bounded-depth search. For each of (a)–(f), either
 give an example or explain why this is impossible.<br>
 
 1.  Assuming that leaf values are finite but unbounded, is pruning (as

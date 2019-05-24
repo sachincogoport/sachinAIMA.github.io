@@ -3,8 +3,8 @@
 Consider the problem of moving $k$ knights from $k$ starting squares
 $s_1,\ldots,s_k$ to $k$ goal squares $g_1,\ldots,g_k$, on an unbounded
 chessboard, subject to the rule that no two knights can land on the same
-square at the same time. Each action consists of moving *up
-to* $k$ knights simultaneously. We would like to complete the
+square at the same time. Each action consists of moving <i>up
+to</i> $k$ knights simultaneously. We would like to complete the
 maneuver in the smallest number of actions.<br>
 
 1.  What is the maximum branching factor in this state space, expressed

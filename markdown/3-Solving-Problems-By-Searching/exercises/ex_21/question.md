@@ -1,7 +1,7 @@
 
 
 On page <a href="#">iterative-lengthening-page</a>,
-we mentioned **iterative lengthening search**,
+we mentioned <b>iterative lengthening search</b>,
 an iterative analog of uniform cost search. The idea is to use increasing limits on
 path cost. If a node is generated whose path cost exceeds the current
 limit, it is immediately discarded. For each new iteration, the limit is

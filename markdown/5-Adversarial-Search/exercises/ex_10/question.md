@@ -2,8 +2,8 @@
 
 Consider the family of generalized tic-tac-toe games, defined as
 follows. Each particular game is specified by a set $\mathcal S$ of
-*squares* and a collection $\mathcal W$ of *winning
-positions.* Each winning position is a subset of $\mathcal S$.
+<i>squares</i> and a collection $\mathcal W$ of <i>winning
+positions.</i> Each winning position is a subset of $\mathcal S$.
 For example, in standard tic-tac-toe, $\mathcal S$ is a set of 9 squares
 and $\mathcal W$ is a collection of 8 subsets of $\cal W$: the three
 rows, the three columns, and the two diagonals. In other respects, the

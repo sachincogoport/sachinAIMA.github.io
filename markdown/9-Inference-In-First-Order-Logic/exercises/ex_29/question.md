@@ -3,10 +3,10 @@
 Here are two sentences in the language of
 first-order logic:<br>
 
--   **(A)**
+-   <b>(A)</b>
     ${\forall\,x\;\;} {\exists\,y\;\;} ( x \geq y )$
 
--   **(B)**
+-   <b>(B)</b>
     ${\exists\,y\;\;} {\forall\,x\;\;} ( x \geq y )$
 
 1.  Assume that the variables range over all the natural numbers

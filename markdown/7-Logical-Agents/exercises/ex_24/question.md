@@ -11,7 +11,7 @@ is in DNF.<br>
     written in DNF.<br>
 
 2.  Construct an algorithm that converts any sentence in propositional
-    logic into DNF. (*Hint*: The algorithm is similar to
+    logic into DNF. (<i>Hint</i>: The algorithm is similar to
     the algorithm for conversion to CNF iven in
     Sectio <a href="#">pl-resolution-section</a>.)<br>
 

@@ -12,7 +12,7 @@ Figure <a href="#">elimination-ask-algorithm</a> (page <A href="#">elimination
 2.  Count the number of arithmetic operations performed, and compare it
     with the number performed by the enumeration algorithm.<br>
 
-3.  Suppose a network has the form of a *chain*: a sequence
+3.  Suppose a network has the form of a <i>chain</i>: a sequence
     of Boolean variables $X_1,\ldots, X_n$ where
     ${Parents}(X_i){{\,=\,}}\{X_{i-1}\}$ for $i{{\,=\,}}2,\ldots,n$.
     What is the complexity of computing

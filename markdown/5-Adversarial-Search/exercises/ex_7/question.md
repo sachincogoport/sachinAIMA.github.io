@@ -5,7 +5,7 @@ game tree, the utility obtained by max using minimax
 decisions against a suboptimal min will never be lower than
 the utility obtained playing against an optimal min. Can
 you come up with a game tree in which max can do still
-better using a *suboptimal* strategy against a suboptimal
+better using a <i>suboptimal</i> strategy against a suboptimal
 min?
 
 

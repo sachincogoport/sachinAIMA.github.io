@@ -22,10 +22,10 @@ Figure <a href="#telescope-nets-figure">telescope-nets-figure</a>.<br>
     function of the parameters $e$ and/or $f$.<br>
 
 4.  Suppose $M_1{{\,=\,}}1$ and $M_2{{\,=\,}}3$. What are the
-    *possible* numbers of stars if you assume no prior
+    <i>possible</i> numbers of stars if you assume no prior
     constraint on the values of $N$?<br>
 
-5.  What is the *most likely* number of stars, given these
+5.  What is the <i>most likely</i> number of stars, given these
     observations? Explain how to compute this, or if it is not possible
     to compute, explain what additional information is needed and how it
     would affect the result.<br>

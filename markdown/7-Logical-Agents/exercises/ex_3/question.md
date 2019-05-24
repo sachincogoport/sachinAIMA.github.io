@@ -10,7 +10,7 @@ propositional logic sentence is true in a given model.<br>
     version of this function from the online code repository.)<br>
 
 2.  Give three examples of sentences that can be determined to be true
-    or false in a *partial* model that does not specify a
+    or false in a <i>partial</i> model that does not specify a
     truth value for some of the symbols.<br>
 
 3.  Show that the truth value (if any) of a sentence in a partial model
@@ -19,6 +19,6 @@ propositional logic sentence is true in a given model.<br>
 4.  Modify your algorithm so that it can sometimes judge truth from
     partial models, while retaining its recursive structure and linear
     run time. Give three examples of sentences whose truth in a partial
-    model is *not* detected by your algorithm.<br>
+    model is <i>not</i> detected by your algorithm.<br>
 
 5.  Investigate whether the modified algorithm makes $TT-Entails?$ more efficient.

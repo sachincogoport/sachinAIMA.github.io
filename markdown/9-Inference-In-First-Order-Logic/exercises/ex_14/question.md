@@ -8,12 +8,12 @@ ${Age}(\mbox{{443}}-{65}-{1282}}, {56})$. Which of the following
 indexing schemes S1–S5 enable an efficient solution for which of the
 queries Q1–Q4 (assuming normal backward chaining)?<br>
 <br>
-- **S1**: an index for each atom in each position.<br>
-- **S2**: an index for each first argument.<br>
-- **S3**: an index for each predicate atom.<br>
-- **S4**: an index for each *combination* of predicate and first argument.<br>
-- **S5**: an index for each *combination* of predicate and second argument and an index for each first argument.<br>
-- **Q1**: ${Age}(\mbox 443-44-4321,x)$<br>
-- **Q2**: ${ResidesIn}(x,{Houston})$<br>
-- **Q3**: ${Mother}(x,y)$<br>
-- **Q4**: ${Age}(x,{34}) \land {ResidesIn}(x,{TinyTownUSA})$<br>
+- <b>S1</b>: an index for each atom in each position.<br>
+- <b>S2</b>: an index for each first argument.<br>
+- <b>S3</b>: an index for each predicate atom.<br>
+- <b>S4</b>: an index for each <i>combination</i> of predicate and first argument.<br>
+- <b>S5</b>: an index for each <i>combination</i> of predicate and second argument and an index for each first argument.<br>
+- <b>Q1</b>: ${Age}(\mbox 443-44-4321,x)$<br>
+- <b>Q2</b>: ${ResidesIn}(x,{Houston})$<br>
+- <b>Q3</b>: ${Mother}(x,y)$<br>
+- <b>Q4</b>: ${Age}(x,{34}) \land {ResidesIn}(x,{TinyTownUSA})$<br>

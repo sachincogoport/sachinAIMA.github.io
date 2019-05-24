@@ -2,8 +2,8 @@
 In the following, a “max” tree consists only of max nodes, whereas an
 “expectimax” tree consists of a max node at the root with alternating
 layers of chance and max nodes. At chance nodes, all outcome
-probabilities are nonzero. The goal is to *find the value of the
-root* with a bounded-depth search.<br>
+probabilities are nonzero. The goal is to <i>find the value of the
+root</i> with a bounded-depth search.<br>
 
 1.  Assuming that leaf values are finite but unbounded, is pruning (as
     in alpha–beta) ever possible in a max tree? Give an example, or

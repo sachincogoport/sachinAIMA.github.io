@@ -25,7 +25,7 @@ by never losing.) An example is shown in Figure.
 
 5.  Now suppose that the tree as given, with the leaf bounds from (d),
     is evaluated from left to right. Circle those “?” nodes that would
-    *not* need to be expanded further, given the bounds
+    <i>not</i> need to be expanded further, given the bounds
     from part (d), and cross out those that need not be considered
     at all.<br>
 

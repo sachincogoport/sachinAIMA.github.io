@@ -13,7 +13,7 @@ can be shown to be independent of the value of $n_j$.<br>
     $n_j$.<br>
 
 2.  Let $l_i$ be the minimum (or maximum) value of the nodes to the
-    *left* of node $n_i$ at depth $i$, whose minimax value
+    <i>left</i> of node $n_i$ at depth $i$, whose minimax value
     is already known. Similarly, let $r_i$ be the minimum (or maximum)
     value of the unexplored nodes to the right of $n_i$ at depth $i$.
     Rewrite your expression for $n_1$ in terms of the $l_i$ and

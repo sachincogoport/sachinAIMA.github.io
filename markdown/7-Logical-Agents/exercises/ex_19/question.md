@@ -10,9 +10,9 @@ CSPs.<br>
 2.  How many solutions are there for this general SAT problem as a
     function of $n$?<br>
 
-3.  Suppose we apply {Backtracking-Search} (page <a href="#">backtracking-search-algorithm</a>) to find *all*
+3.  Suppose we apply {Backtracking-Search} (page <a href="#">backtracking-search-algorithm</a>) to find <i>all</i>
     solutions to a SAT CSP of the type given in (a). (To find
-    *all* solutions to a CSP, we simply modify the basic
+    <i>all</i> solutions to a CSP, we simply modify the basic
     algorithm so it continues searching after each solution is found.)
     Assume that variables are ordered $X_1,\ldots,X_n$ and ${false}$
     is ordered before ${true}$. How much time will the algorithm take

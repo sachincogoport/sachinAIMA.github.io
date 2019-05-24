@@ -12,5 +12,5 @@ using a backward-chaining algorithm.<br>
 
 3.  How many solutions for $h$ actually follow from your sentences?<br>
 
-4.  Can you think of a way to find all of them? (*Hint*:
+4.  Can you think of a way to find all of them? (<i>Hint</i>:
     See @Smith+al:1986.)<br>

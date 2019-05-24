@@ -11,7 +11,7 @@ Figure <a href="#line-game4-figure">line-game4-figure</a><br>
     -   Put each terminal state in a square box and write its game value
         in a circle.<br>
 
-    -   Put *loop states* (states that already appear on
+    -   Put <i>loop states</i> (states that already appear on
         the path to the root) in double square boxes. Since their value
         is unclear, annotate each with a “?” in a circle.<br>
 

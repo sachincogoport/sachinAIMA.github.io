@@ -22,6 +22,6 @@ linear evaluation function defined as ${Eval}(s) = 3X_2(s) + X_1(s) -
     for the positions at depths 1 and 0, and use those values to choose
     the best starting move.<br>
 
-5.  Circle the nodes at depth 2 that would *not* be
+5.  Circle the nodes at depth 2 that would <i>not</i> be
     evaluated if alpha–beta pruning were applied, assuming the nodes are
     generated in the optimal order for alpha–beta pruning.<br>

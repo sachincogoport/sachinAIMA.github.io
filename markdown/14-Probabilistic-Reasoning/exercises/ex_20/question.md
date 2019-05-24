@@ -16,7 +16,7 @@ uniformly distributed between 0 and 1.<br>
 
 2.  Now suppose we want to generate $N$ samples of $X$, where $N\gg k$.
     Explain how to do this with an expected run time per sample that is
-    *constant* (i.e., independent of $k$).<br>
+    <i>constant</i> (i.e., independent of $k$).<br>
 
 3.  Now consider a continuous-valued variable with a parameterized
     distribution (e.g., Gaussian). How can samples be generated from

@@ -11,8 +11,8 @@ clauses and implication sentences.<br>
     positive literals) can be written in the form
     $(P_1 \land \cdots \land P_m) {\;{\Rightarrow}\;}(Q_1 \lor \cdots \lor Q_n)$,
     where the $P$s and $Q$s are proposition symbols. A knowledge base
-    consisting of such sentences is in implicative normal form or **Kowalski
-    form** @Kowalski:1979.<br>
+    consisting of such sentences is in implicative normal form or <b>Kowalski
+    form</b> @Kowalski:1979.<br>
 
 3.  Write down the full resolution rule for sentences in implicative
     normal form.<br>
