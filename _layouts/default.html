@@ -10,9 +10,12 @@
             <a href="{{ site.baseurl }}/" title="Home">{{ site.title }}</a>
             <small>{{ site.tagline }}</small>
           </h3>
+          <br>
+          <div><center><form action="{{ site.baseurl }}/search" id="site_search" autocomplete="off" method="GET">
+           <div><input type="text" name="query" class="toc_search" placeholder="Search within AIMA Exercises" size="70%">
+         </form> <input type="submit" value="Go!" class="search-btn" id="search-btn"><br></center> <br></div>
 
-      
-      <input type="submit" value="Go!" class="search-btn" id="search-btn">
+
       </div>
 
       <div class="container content">
