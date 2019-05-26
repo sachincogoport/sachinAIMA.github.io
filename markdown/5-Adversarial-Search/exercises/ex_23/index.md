@@ -1,6 +1,6 @@
 ---
 layout: exercise
-title: Exercise 5.2
+title: Exercise 5.23
 permalink: /game-playing-exercises/ex_23/
 breadcrumb: 5-Adversarial-Search
 breadcrumb2: ex_23
@@ -15,13 +15,13 @@ breadcrumb2: ex_23
 
         <a class="solve_question" id="solve_question" href="#">
         <button type="button" class="btn btn-dark float-right" title="Solve this Exercise" href="#" id="buttonsolve">
-        <i id="ex5.2" class="fas fa-pen" style="color:white"></i>
+        <i id="ex5.23" class="fas fa-pen" style="color:white"></i>
         </button>
         </a>
 
         <a class="edit_question" id="editt_question" href="#">
-        <button type="button" class="btn btn-dark float-right" title="Edit this Question" style="margin-left:10px; margin-right:10px;" onclick="edit('ex5.2');" href="#" id="buttonsolve">
-        <i id="ex5.2" class="far fa-edit" style="color:white"></i>
+        <button type="button" class="btn btn-dark float-right" title="Edit this Question" style="margin-left:10px; margin-right:10px;" onclick="edit('ex5.23');" href="#" id="buttonsolve">
+        <i id="ex5.23" class="far fa-edit" style="color:white"></i>
         </button>
         </a>
 
