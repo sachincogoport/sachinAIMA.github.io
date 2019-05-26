@@ -13,15 +13,15 @@
           <br>
           <div><center><form action="{{ site.baseurl }}/search" id="site_search" autocomplete="off" method="GET">
            <div><input type="text" name="query" class="toc_search" placeholder="Search within AIMA Exercises" size="70%">
-         </form> <input type="submit" value="Go!" class="search-btn" id="search-btn"><br></center> <br></div>
+         </form> <input type="submit" value="Go!" class="search-btn" id="search-btn"><br></center> </div>
 
 
       </div>
-
+    </div>
       <div class="container content">
         {{ content }}
       </div>
-    </div>
+
 
     <label for="sidebar-checkbox" class="sidebar-toggle"></label>
 
@@ -30,14 +30,11 @@
         var toggle = document.querySelector('.sidebar-toggle');
         var sidebar = document.querySelector('#sidebar');
         var checkbox = document.querySelector('#sidebar-checkbox');
-
         document.addEventListener('click', function(e) {
           var target = e.target;
-
           if(!checkbox.checked ||
              sidebar.contains(target) ||
              (target === checkbox || target === toggle)) return;
-
           checkbox.checked = false;
         }, false);
       })(document);
